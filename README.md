@@ -10,3 +10,4 @@ all of my flutter learning projects
 | Day 4 | Login UI         | ![login](./screenshots/basic_login_ui.png)  | [login_ui](./basic_login_ui)           | Simple login UI app                             |
 | Day 5 | Dog Photo Viewer | ![dog](./screenshots/dog_photo_viewer.png)  | [dog_photo_viewer](./dog_photo_viewer) | Working with API to show some random dog photos |
 | Day 6 | Unit Converter   | ![unit](./screenshots/unit_converter.png)   | [unit_converter](./unit_converter)     | Simple Unit Converter                           |
+| Day 7 | List Views       | ![list](./screenshots/list_views.png)       | [list_views](./flutter_listviews)      | Simple List View in Practice                    |

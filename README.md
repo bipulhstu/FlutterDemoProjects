@@ -2,12 +2,13 @@
 
 all of my flutter learning projects
 
-| Day   | Project Name     | ScreenShot                                  | Code                                   | Remarks                                         |
-| ----- | ---------------- | ------------------------------------------- | -------------------------------------- | ----------------------------------------------- |
-| Day 1 | Poor Brothers    | ![pb](./screenshots/poor_brothers.png)      | [poor_brothers](./poor_brothers)       | Simple app to show asset image                  |
-| Day 2 | ShoppingList     | ![cart](./screenshots/basic_cart.png)       | [basic_cart](./basic_cart)             | Simple shopping list cart                       |
-| Day 3 | Flutter Layout   | ![layout](./screenshots/flutter_layout.png) | [flutter_layout](./flutter_layout)     | Basic Flutter Layout                            |
-| Day 4 | Login UI         | ![login](./screenshots/basic_login_ui.png)  | [login_ui](./basic_login_ui)           | Simple login UI app                             |
-| Day 5 | Dog Photo Viewer | ![dog](./screenshots/dog_photo_viewer.png)  | [dog_photo_viewer](./dog_photo_viewer) | Working with API to show some random dog photos |
-| Day 6 | Unit Converter   | ![unit](./screenshots/unit_converter.png)   | [unit_converter](./unit_converter)     | Simple Unit Converter                           |
-| Day 7 | List Views       | ![list](./screenshots/list_views.png)       | [list_views](./flutter_listviews)      | Simple List View in Practice                    |
+| Day   | Project Name     | ScreenShot                                     | Code                                   | Remarks                                         |
+| ----- | ---------------- | ---------------------------------------------- | -------------------------------------- | ----------------------------------------------- |
+| Day 1 | Poor Brothers    | ![pb](./screenshots/poor_brothers.png)         | [poor_brothers](./poor_brothers)       | Simple app to show asset image                  |
+| Day 2 | ShoppingList     | ![cart](./screenshots/basic_cart.png)          | [basic_cart](./basic_cart)             | Simple shopping list cart                       |
+| Day 3 | Flutter Layout   | ![layout](./screenshots/flutter_layout.png)    | [flutter_layout](./flutter_layout)     | Basic Flutter Layout                            |
+| Day 4 | Login UI         | ![login](./screenshots/basic_login_ui.png)     | [login_ui](./basic_login_ui)           | Simple login UI app                             |
+| Day 5 | Dog Photo Viewer | ![dog](./screenshots/dog_photo_viewer.png)     | [dog_photo_viewer](./dog_photo_viewer) | Working with API to show some random dog photos |
+| Day 6 | Unit Converter   | ![unit](./screenshots/unit_converter.png)      | [unit_converter](./unit_converter)     | Simple Unit Converter                           |
+| Day 7 | List Views       | ![list](./screenshots/list_views.png)          | [list_views](./flutter_listviews)      | Simple List View in Practice                    |
+| Day 8 | Calculator App   | ![calculator](./screenshots/calculator_ui.png) | [calculator_ui](./calculator_ui)       | Calculator App                                  |
